@@ -11,7 +11,7 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
 
 ### 🌐 Conecte-se comigo
 
-- <a href="www.linkedin.com/in/giovanna-dias-049846380" target="_blank">**LinkedIn**</a
+- <a href="www.linkedin.com/in/giovanna-dias-049846380" target="_blank">**LinkedIn**</a>
 - <a href="giovannaofdias@gmail.com">**Email**</a>
 
 
