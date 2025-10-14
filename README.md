@@ -18,13 +18,14 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA2Mm01NnRtYzhtMGVwMnBtcWhjdnEydG5lOWwyOXBsZnQ2NGI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zoQ2J2gQ4oCcjfyF5H/giphy.gif" width="150" />
+
 ---
 
 ### 🌐 Conecte-se comigo
 
 <a href="www.linkedin.com/in/giovanna-dias-049846380" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA2Mm01NnRtYzhtMGVwMnBtcWhjdnEydG5lOWwyOXBsZnQ2NGI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zoQ2J2gQ4oCcjfyF5H/giphy.gif" width="150" />
 
 
 ⭐ Obrigada por visitar meu perfil! 
