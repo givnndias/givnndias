@@ -18,6 +18,8 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
+<img align="right" alt="Jiji gif" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150"/>
+
 ---
 
 ### 🌐 Conecte-se comigo
@@ -26,5 +28,4 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
 
 
 
-
-Obrigada por visitar meu perfil! 
+⭐ Obrigada por visitar meu perfil! 
