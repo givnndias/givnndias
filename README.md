@@ -27,4 +27,4 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
 
 
 
-Obrigado por visitar meu perfil! 
+Obrigada por visitar meu perfil! 
