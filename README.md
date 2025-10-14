@@ -10,6 +10,7 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
 📫 Contato: **giovannaofdias@gmail.com**
 
 ### 🔨 Ferramentas e Tecnologias
+<img src="[https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA2Mm01NnRtYzhtMGVwMnBtcWhjdnEydG5lOWwyOXBsZnQ2NGI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zoQ2J2gQ4oCcjfyF5H/giphy.gif)" width="150" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
