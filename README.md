@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Giovanna Dias
 
-<!--
-**givnndias/givnndias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software dedicada à tecnologia e apaixonada por criar soluções inovadoras.. 
+Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C++**.
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ℹ️ Este gráfico mostra a distribuição das linguagens mais utilizadas nos meus repositórios públicos.
+
+---
+
+### 🌐 Conecte-se comigo
+
+- <a href="www.linkedin.com/in/giovanna-dias-049846380" target="_blank">**LinkedIn**</a
+- <a href="giovannaofdias@gmail.com">**Email**</a>
+
+
+Obrigado por visitar meu perfil! 
