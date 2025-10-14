@@ -7,7 +7,7 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
 
 ℹ️ Este gráfico mostra a distribuição das linguagens mais utilizadas nos meus repositórios públicos.
 
-📫 Contato: **[giovannaofdias@gmail.com]**
+📫 Contato: **giovannaofdias@gmail.com**
 
 ### 🔨 Ferramentas e Tecnologias
 
