@@ -25,7 +25,7 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
 
 ### 🌐 Conecte-se comigo
 
-<a href="www.linkedin.com/in/giovanna-dias-049846380" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/giovanna-dias-049846380" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
