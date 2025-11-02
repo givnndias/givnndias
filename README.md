@@ -20,7 +20,6 @@ Atualmente, estou focada em projetos com **HTML**, **CSS**, **JavaScript** e **C
   <img align="center" alt="Cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-
 ---
 
 ### 🌐 Conecte-se comigo
